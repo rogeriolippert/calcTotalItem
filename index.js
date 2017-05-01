@@ -11,4 +11,4 @@ function calculaTotalItem (lista = [], opcoes = {}) {
   return r;
 }
 
-module.exports = { contaVotos };
+module.exports = { calcTotalItem };
